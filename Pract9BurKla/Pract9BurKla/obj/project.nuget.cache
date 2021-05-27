@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b49t6CmjICd05Bvkn2reobFyDnSGOmliZ/Jf08A4v2oU/EWKm+JS4AHP6p7JE9zv4FXTm8GxZIuzg6+bo0kRyQ==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.0.131\\студент_доступ\\!!!ИСиП\\ИСиП 20-11-1\\!Практика\\Кляпышев Валентин\\Pract9BurKla\\Pract9BurKla\\Pract9BurKla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
